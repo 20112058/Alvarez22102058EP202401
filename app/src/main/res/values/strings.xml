@@ -11,4 +11,7 @@
     <string name="Prizes">PRIZES</string>
     <string name="Teams">TEAMS</string>
     <string name="Stadiums">STADIUMS</string>
+    <string name="TotalAmounUSD">Total amount in USD</string>
+    <string name="Calculate">CALCULATE</string>
+    <string name="Back">GO TO MENU</string>
 </resources>

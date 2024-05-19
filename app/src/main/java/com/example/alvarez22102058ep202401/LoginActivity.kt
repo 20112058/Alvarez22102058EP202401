@@ -28,14 +28,16 @@ class LoginActivity : AppCompatActivity() {
             val email: String = etEmail.text.toString()
             val pwd: String = etPassword.text.toString()
 
-            if(email == " admin@americancup.com" && pwd=="admin123")
-            {
+            if (email == "admin@americancup.com" && pwd == "admin123") {
                 val intent = Intent(this, MenuActivity::class.java)
                 startActivity(intent)
-            }else{
-                Toast.makeText(this,
+            } else {
+                Toast.makeText(
+                    this,
                     "Credenciales inválidas",
-                    Toast.LENGTH_LONG).show()
+                    Toast.LENGTH_LONG
+                ).show()
             }
+        }
     }
 }
