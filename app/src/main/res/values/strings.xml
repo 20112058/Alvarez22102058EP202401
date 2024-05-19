@@ -3,4 +3,12 @@
     <string name="Welcome">Welcome to American Cup 2024</string>
     <string name="Welcome_logo">Immerse yourself in the excitement of \nsoccer as nations compete for glory in \nthis epic tournament.</string>
     <string name="GetStarted">GET STARTED</string>
+    <string name="LoginTitulo">LOGIN</string>
+    <string name="hintEmail">Email address</string>
+    <string name="hintPassw">Password</string>
+    <string name="btnSingIn">Sing In</string>
+    <string name="Menu">MENU</string>
+    <string name="Prizes">PRIZES</string>
+    <string name="Teams">TEAMS</string>
+    <string name="Stadiums">STADIUMS</string>
 </resources>
